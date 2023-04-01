@@ -45,11 +45,6 @@ sudo chmod +x macFIND.py
 ## Usage
 ```bash
 sudo python3 macFIND.py
-Password:
-░█▄▒▄█▒▄▀▄░▄▀▀▒█▀░█░█▄░█░█▀▄
-░█▒▀▒█░█▀█░▀▄▄░█▀░█░█▒▀█▒█▄▀
-
-Enter MAC address to check:
 ```
 
 ## Sample script
